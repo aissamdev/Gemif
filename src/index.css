@@ -1,0 +1,17 @@
+:root {
+  font-family: Tahoma ,'Nature Spirit', Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgb(58, 59, 84);
+  --input-padding: 10px;
+  --yellow: #f8f427;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+#root {
+  height: 100%;
+}
